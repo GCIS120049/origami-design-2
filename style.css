@@ -1,0 +1,42 @@
+a{
+    font-size: xx-large;
+    background-color:rgb(255, 255, 255);
+}
+img{
+    border:10px solid rgb(0, 0, 0);
+}
+p{
+    font-size: x-large;
+    font-weight: bold;
+}
+ol{
+    border: 10px ridge rgb(255, 191, 244);
+    color: aliceblue;
+}
+body{
+    background-image: url("bg.jpg");
+    font-family:'Times New Roman', Times, serif;
+}
+.menu{
+    background-color:#ddacce;
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    margin: 3%;
+}
+.bodyimg{
+    background-color:#CD0857;
+}
+.grid img{
+    border-radius: 10px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.origami{
+    border-radius: 20px;
+    background-color:#C1007B;
+    width: 310px;
+}
